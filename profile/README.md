@@ -1,4 +1,4 @@
-<p align="center"><img src="images/logo.webp" width="20%" style="border-radius: 50%;"/></p>
+<p align="center"><img src="../images/logo.webp" width="20%" style="border-radius: 50%;"/></p>
 
 # Šta da jedem?
 ### Tvoj vodič u odabiru hrane 🍔
